@@ -5,7 +5,6 @@
    S.E(SEM 3)
    OOPM PROJECT
    TITLE-ATM MANAGEMENT SYSTEM
-   PROJECT INCHARGE- ASFAQUE SIR
 */
 import java.text.DecimalFormat;
 import java.io.IOException;
