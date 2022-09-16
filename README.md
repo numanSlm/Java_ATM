@@ -2,7 +2,7 @@
 
 This project was made as a mini-project for my JAVA class
 
-It is a simple ATM-Machine simulator in Command Line showcasing basic CRUD functionality using OOP concepts
+It is an ATM-Machine simulator in Command Line showcasing basic CRUD functionality using OOP concepts
 
 ### Steps to Use:
 
